@@ -22,6 +22,7 @@ p {
 
 .header {
     display: flex;
+    justify-content: space-between;
 }
 
 .contaner{
@@ -427,7 +428,7 @@ input::placeholder{
 .footer__content{
     padding: 60px 0;
     display: flex;
-    gap: 155px;
+    justify-content: space-between;
 }
 
 .footer__l1 {
